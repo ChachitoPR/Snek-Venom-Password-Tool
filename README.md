@@ -14,3 +14,5 @@ Provides a scoring based on the strength of the password, assessing things such 
   character types
   sum of character
 
+
+*The password tester will pull the common access list, rename the downloaded list in txt to whichever name you desire, then reference the named txt file in the tester
